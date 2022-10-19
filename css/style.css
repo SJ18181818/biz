@@ -1,0 +1,38 @@
+   * { font-family: "맑은 고딕", arial, helvetica, sans-serif; line-height:150%}   
+    ul { list-style-type: none;}
+    a {text-decoration: none;}
+    nav ul li {
+        display: inline;
+        padding: 15px 20px; 
+        letter-spacing: 5px;
+    }
+    nav ul li:hover{
+        background-color: #f00;
+    }
+    nav ul {
+        border-top: 2px solid #f00;
+        border-bottom: 2px solid #f00;
+        padding: 15px 20px;
+        text-align: center;
+    }
+    .bigdata > img{ 
+        padding-top: 50px;
+        margin:0 auto;
+        display: block;
+        width: 50%;
+
+    }
+    .action table{
+        width: 90%;
+        font-size: 1.2em;
+        border: 0px;
+        margin: 0 auto;
+    }
+    .action table th{
+        background-color: #f00;
+    }
+    video, iframe{ 
+        width:100%;
+        margin: 0 auto;
+
+    }
