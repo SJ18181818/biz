@@ -1,5 +1,6 @@
    * { font-family: "맑은 고딕", arial, helvetica, sans-serif; line-height:150%}   
-    ul { list-style-type: none;}
+    
+   ul { list-style-type: none;}
     a {text-decoration: none;}
     nav ul li {
         display: inline;
